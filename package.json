@@ -47,7 +47,7 @@
     "node": ">=10"
   },
   "ci": {
-    "version": "8"
+    "version": "10"
   },
   "repository": {
     "type": "git",
