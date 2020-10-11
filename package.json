@@ -44,10 +44,7 @@
     "typescript": "^3.0.0"
   },
   "engines": {
-    "node": ">=10"
-  },
-  "ci": {
-    "version": "10"
+    "node": ">=8.9.0"
   },
   "repository": {
     "type": "git",
